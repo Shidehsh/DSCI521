@@ -49,10 +49,23 @@ The primary course materials consist of a collection of interactive Jupyter note
 
 For access to the Github repository, all students are required to sign up for an account and post user names on the course discussion board. An invite to the Github repository will follow.
 
+The course lecture notes are broken down into the following topics, which roughly correspond to a week of content each. More information on course scheduling can be found in that section, below.
+
+- Chapter 0: System configuration, programming, and numeracy Chapter 1: Processing numeric data
+- Chapter 2: Feature engineering and language processing
+- Chapter 3: Exploratory data analysis and visualization
+- Chapter 4: Networks, metrics, and applications
+- Chapter 5: Data transformation and analysis of functions
+- Chapter 6: Counting and probability for quantitative frameworks
+- Chapter 7: Approaching regression and classification problems
+- Chapter 8: Model pipelines and comparisons
+- Chapter 9: Introduction to neural networks
+
 ### Assignments, Assessments, and Evaluations
 
-#### Homework: 
+#### Homework:
 Structured, individual assignments will be distributed according to four topic areas:
+
 1. Text analysis and feature engineering
 2. Network and exploratory data analysis, including visualization
 3. Probabilistic modeling and prediction
@@ -60,21 +73,62 @@ Structured, individual assignments will be distributed according to four topic a
 
 These assignments will be composed in a modular fashion, with each module/problem worth about 35–45 points apiece. The total assignment value requirement for the term is 400 target points and there will be about 550 possible points available across all modules. Each module can be completed and submitted separately. This means there will be roughly 12–16 modules, total.
 
-#### Project 
+#### Project:
 One open-ended group assignment will have two phases:
+
 1. Data Set Identification, Motivational Exploration, and Proposed Methods Implementation
 2. Methods Implementation, Evaluation, and Interpretation, with Documentation and Dissemination
 
 ### Course Schedule
-The course’s schedule follows the lecture notes at roughly one week per chapter with the expectation that students will configure systems and review or work through numeracy topics and the processing fundamentals in Chapter 0. Some chapters may extend over multiple weeks, depending the section’s pace. Week 10 and the regularly scheduled final exam period (to be determined) are reserved for final project presentations. Please observe the following (tentative) schedule, and be aware that weekly may change depending on the pace of class.
+The course’s schedule follows the lecture notes at roughly one week per chapter with the expectation that students will configure systems and review or work through the numeracy and processing fundamentals in __Chapter 0__. Some chapters may extend over multiple weeks, depending on the section’s pace. __Week 10__ and the regularly scheduled __final exam__ period (the same day of week and time of the regularly scheduled class meetings, but during exam week) are reserved for final project presentations. Please observe the following (tentative) schedule; weekly activities may change depending on the pace of class.
 
-- Week 1: Handling numeric data in Python
-- Week 2: Feature engineering and language processing
-- Week 3: Exploratory data analysis and visualization
-- Week 4: Networks, metrics, and applications 
-- Week 5: Functions and optimization 
-- Week 6: Probabilistic modeling
-- Week 7: Introduction to machine learning and regression
-- Week 8: Supervised learning and evaluation
-- Week 9: Introduction to neural networks
-- Week 10: Project presentations
+- Week 0:
+    - DSFS: Chapter 1
+    - TDSH: Chapters 1–2
+    - Homework: configure system
+    - Week 1:
+    - DSFS: Chapters 2 & 4
+    - Project: team formation; begin Phase 1 Homework: begin Assignment Group 1
+- Week 2:
+    - DSFS: Chapters 10 (pgs. 121–133) & 20 (pgs. 239–244) TDSH: Chapter 16
+    - Project: continue Phase 1
+    - Homework: continue Assignment Group 1
+- Week 3:
+    - DSFS: Chapters 3 & 5
+    - TDSH: Chapters 5.1–5.12
+    - PDSH: Chapters 4.01–4.02, 4.04–4.06, 4.08–4.09
+    - Project: continue Phase 1
+    - Homework: begin Assn. Group 2 (Thursday); complete Assn. Group 1 (Friday)
+- Week 4:
+    - DSFS: Chapter 21 (pgs. 255–256, 264–266)
+    - Project: begin Phase 2 (Thursday); complete Phase 1 (Friday)
+    - Homework: continue Assignment Group 2
+- Week 5:
+    - DSFS: Chapter 8
+    - Project: continue Phase 2
+    - Homework: begin Assn. Group 3 (Thursday); complete Assn. Group 2 (Friday)
+- Week 6:
+    - DSFS: Chapter 6
+    - TDSH: Chapters 6, 18.0–18.3, 18.5–18.7, 19.0–19.2 Project: continue Phase 2
+    - Homework: continue Assignment Group 3
+- Week 7:
+    - DSFS: Chapters 14, 15 (pgs. 171–183), & 16 (pgs. 189–192, 196–200)
+    - TDSH: Chapters 8.1–8.4, 8.5.5, 10.6, 10.7 (through 10.7.2), & 11.0–11.6
+    - PDSH: 5.06 & 5.09
+    - Project: continue Phase 2
+    - Homework: begin Assn. Group 4 (Thursday); complete Assn. Group 3 (Friday)
+- Week 8:
+    - DSFS: Chapters 11, 13, 17 (pgs. 201–203 & 211) & 19 TDSH: Chapters 8.5.1–8.5.4, 8.5.7
+    - PDSH: 5.01–5.04, 5.05, 5.07–5.08 & 5.11
+    - Project: continue Phase 2
+    - Homework: continue Assignment Group 4
+- Week 9:
+    - DSFS: Chapter 18
+    - TDSH: Chapters 8.5.8 & 24.1–24.5
+    - Project: continue Phase 2
+    - Homework: complete Assignment Group 4
+- Week 10:
+    - DSFS: Chapters 12, & 22 (as needed for projects)
+    - Project: complete Phase 2; presentations
+- Week 11: (final exam week)
+    - Project: complete Phase 2; presentations
