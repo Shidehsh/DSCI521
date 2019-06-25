@@ -12,7 +12,7 @@ Introduces methods for data analysis and their quantitative foundations in appli
 ## Course Purpose within a Program of Study
 This course provides an application-oriented introduction to quantitative reasoning for data science. Hands-on experience is provided with a number analytic techniques and evaluation methods in the context of their quantitative foundations. Via implementation, an understanding for method function, applicability, setup, and interpretation is provided under mathematical frameworks.
 
-This course is a core course in the Data Science Masters program.
+This course is a core course in the Data Science Master's program.
 
 ## Statement of Expected Learning
 The course objectives are to:
@@ -59,7 +59,6 @@ The course lecture notes are broken down into the following topics, which roughl
 - Chapter 6: Counting and probability for quantitative frameworks
 - Chapter 7: Approaching regression and classification problems
 - Chapter 8: Model pipelines and comparisons
-- Chapter 9: Introduction to neural networks
 
 ### Assignments, Assessments, and Evaluations
 
